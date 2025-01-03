@@ -35,9 +35,9 @@ Step 3: Enable OEM Unlocking and USB Debugging\
 
 
 Step 4: oem unlocking is need inorder to install custom roms
-for that you going to need few softwars
-https://qcomdriver.com/qualcomm-usb-driver-v1-0-10065-1
-https://qdloader9008.com/qualcomm-qdloader-9008-driver-v1-00-25
+for that you going to need few softwars\
+https://qcomdriver.com/qualcomm-usb-driver-v1-0-10065-1 \
+https://qdloader9008.com/qualcomm-qdloader-9008-driver-v1-00-25 \
 https://qfiltool.com/qfil-tool-v2-0-3-5
 \
 
