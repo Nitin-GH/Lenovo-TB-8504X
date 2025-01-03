@@ -1,4 +1,5 @@
-![Views](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https://github.com/Nitin-GH/Lenovo-TB8504X&count_bg=%2379C83D&title_bg=#343a45&icon=&icon_color=#343a45&title=Visits)
+![REPO VISITS](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https://github.com/Nitin-GH/Lenovo-TB8504X&count_bg=%23007bff&title_bg=%23808080&icon=&icon_color=%23FFFFFF&title=REPO%20VISITS&edge_flat=false)
+
 
 
 # Lenovo TB8504X
