@@ -158,10 +158,15 @@ fastboot reboot
 **fastboot devices**&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;"and hit enter. If your tab codename appears go to next steps."\
 **fastboot flash recovery**&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;"and hit space and drag and drop twrp image file. press enter."
 
-**once its flashes type**\
-**adb reboot recovery**
+**once its flashes type**
 
-and flash you recovery
+**adb reboot recovery**&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<====
+
+**and Job done you have sucessfully installed custom recovery now, just download custom rom in your sd card and flash it and clear Dalvik caches and normal caches after flashing and you have new android :)**
+
+# Importand links
+**ALL custom rom links** https://sourceforge.net/projects/adazem009-builds/files/lenovo_TB8504/
+
 Important Notes:\
 Unlocking the bootloader voids the warranty.\
 It will erase all data on the device.\
