@@ -49,11 +49,11 @@
 
  ![android error](https://github.com/user-attachments/assets/bb7ac249-6f55-4c4f-8d2d-98c861fbe31d)\
 **Error 2**\
-![fastboot error](https://github.com/user-attachments/assets/624bbe95-6d8c-441f-9761-ea0ea6a35bd6)
+![fastboot error](https://github.com/user-attachments/assets/624bbe95-6d8c-441f-9761-ea0ea6a35bd6)\
 **Error 3**\
 ![sarah failed](https://github.com/user-attachments/assets/2b735a61-cc37-4622-a20c-4d723be71bb4)\
 
-**we will talk about error 2 more in later of the guide but i highly recommand the youtube video for error 1 and usb driver file is given in the video if that link fails you get that same version in this guide, its basically take from the video description link**
+**we will talk about error 2 more in later of the guide but i highly recommand the youtube video for error 1 and usb driver file is given in the video if that link fails you get that same version in this guide, its basically take from the video description link to keep it safe**
 
 **Video** https://www.youtube.com/watch?v=5z1l6r9EDMo&ab_channel=TheTechipedia \
 **I am not affiliated with any YouTuber or content creator.**
@@ -61,8 +61,10 @@
 once that done we more to next step
 
 # step 5
-1. open qfill as admin ![qfiladmin](https://github.com/user-attachments/assets/ee002de6-ba03-4620-9a13-4c081ef47aaa) \
-2. 
+**1. open qfill as admin**\
+![qfiladmin](https://github.com/user-attachments/assets/ee002de6-ba03-4620-9a13-4c081ef47aaa)\
+
+
 
 \
 
