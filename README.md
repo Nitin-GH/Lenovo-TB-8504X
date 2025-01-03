@@ -1,7 +1,7 @@
 # TB8504X
 This repository contains all the links and files for custom rom installation on lenovo tab TB8504X with there original source links, if source links are not found or working its will contains files that were downloaded from original source
 
-**Disclaimer**
+# Disclaimer
 
 The files and information provided for the Lenovo TB8504X are distributed strictly as-is and have not been modified by me in any way. All files are presented exactly as obtained from their original sources, and no warranties or guarantees of any kind are provided regarding their accuracy, reliability, or functionality.
 
