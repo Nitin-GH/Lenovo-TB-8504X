@@ -8,7 +8,7 @@
 
 **By accessing or using these files, you acknowledge and agree that:**
 
-**1.You are using them entirely at your own risk.**
+**1.You are using them entirely at your own risk.**n\
 **2.I bear no responsibility for any outcomes resulting from their use.**
 **3.You waive any and all claims, legal or otherwise, against me related to these files and instructions.**
 
