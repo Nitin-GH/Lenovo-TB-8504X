@@ -35,7 +35,8 @@ Step 4: Install ADB and Fastboot Tools on Your PC\
 1.Download and install Android SDK Platform Tools from the official Android developer website.\
 https://developer.android.com/tools/releases/platform-tools \
 2.Extract and install the tools on your PC.\
-3.Go into the extracted folder and press leftShift then Right click and open termnial![Shift+rightclick](https://github.com/user-attachments/assets/f37112a0-3537-4a3e-addc-e3472f5f7d3d)
+3.Go into the extracted folder and press leftShift then Right click and open termnial![shiftplusrightclick](https://github.com/user-attachments/assets/d2d490d6-7b0c-41ba-b253-d81821b11f30)
+
 
 
 Step 5: Connect the Device to PC\
