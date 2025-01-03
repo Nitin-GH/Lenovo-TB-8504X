@@ -39,25 +39,33 @@ Step 5: Connect the Device to PC\
 1.Use a USB cable to connect your Lenovo TB8504X to the computer.\
 2.Open a Command Prompt/Terminal in the folder where ADB and Fastboot are installed.\
 Enter the following command:\
+```bash
 'adb devices'\
+```
 If your device is detected, you will see its serial number.
 
 Step 6: Boot into Fastboot Mode\
 Reboot the device into Fastboot mode by running:\
 Copy code\
+```bash
 'adb reboot bootloader'\
+```
 Alternatively, power off the device and press Volume Down + Power Button simultaneously until the Fastboot screen appears.
 
 Step 7: Unlock the Bootloader\
 Enter the following command:\
 Copy code\
+```bash
 'fastboot oem unlock'\
+```
 Confirm the unlocking process on your device using the Volume Keys to navigate and Power Button to confirm.
 
 Step 8: Reboot the Device\
 Once the bootloader is unlocked, reboot the device using:\
 Copy code\
+```bash
 'fastboot reboot'\
+```
 The device may take longer to boot during the first startup after unlocking.
 
 Important Notes:\
