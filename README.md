@@ -142,13 +142,13 @@ fastboot oem unlock
 **Once it done it will erase all the data on your device and you all to resetup it again before moving on to flasing recovery and rom**
 
 
-Step 8: Reboot the Device\
-Once the bootloader is unlocked, reboot the device using:\
-Copy code\
+# Step 10: Reboot the Device\
+**Once the bootloader is unlocked, reboot the device using:**\
+**Copy code**\
 ```bash
 fastboot reboot
 ```
-The device may take longer to boot during the first startup after unlocking.
+**The device may take longer to boot during the first startup after unlocking.**
 
 Important Notes:\
 Unlocking the bootloader voids the warranty.\
