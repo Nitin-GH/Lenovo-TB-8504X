@@ -142,14 +142,23 @@ fastboot oem unlock
 **Once it done it will erase all the data on your device and you all to resetup it again before moving on to flasing recovery and rom**
 
 
-# Step 10: Reboot the Device\
+# Step 10: Reboot the Device
 **Once the bootloader is unlocked, reboot the device using:**\
-**Copy code**\
+**Copy code**
 ```bash
 fastboot reboot
 ```
 **The device may take longer to boot during the first startup after unlocking.**
 
+# step 11: flash recovery 
+**1. once you set it up again and turn on usb debugging again and oem unlock again if not pre toggle before**
+**2.now open adb command prompts type
+~~~bash
+adb reboot bootloader" and hit enter.
+fastboot devices" and hit enter. If your tab codename appears go to next steps.
+fastboot flash recovery" and hit space and drag and drop twrp image file. press enter.
+~~~
+and flash you recovery
 Important Notes:\
 Unlocking the bootloader voids the warranty.\
 It will erase all data on the device.\
