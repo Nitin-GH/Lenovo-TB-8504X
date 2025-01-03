@@ -135,9 +135,10 @@ adb reboot bootloader
 ```bash
 fastboot oem unlock
 ```
-**Confirm the unlocking process on your device using the Volume Keys to navigate and Power Button to confirm.
-its will look like this**
+**unlocking process on your device its will look like this**
 ![oem unlocking](https://github.com/user-attachments/assets/3742c084-9701-497d-8a4c-076685d2184c)
+
+Once it done it will erase all the data on your device and you all to resetup it again before moving on to flasing recovery and rom
 
 
 Step 8: Reboot the Device\
