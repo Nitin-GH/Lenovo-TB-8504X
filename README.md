@@ -154,7 +154,7 @@ fastboot reboot
 **1. once you set it up again and turn on usb debugging again and oem unlock again if not pre toggle before**
 **2.now open adb command prompts type**
 
-**adb reboot bootloader**            "and hit enter."\
+**adb reboot bootloader**&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;"and hit enter."\
 **fastboot devices**                 "and hit enter. If your tab codename appears go to next steps."\
 **fastboot flash recovery**          "and hit space and drag and drop twrp image file. press enter."\
 
