@@ -166,7 +166,7 @@ fastboot reboot
 
 # Importand links
 **ALL custom rom links** https://sourceforge.net/projects/adazem009-builds/files/lenovo_TB8504/ \
-**sources** https://xdaforums.com/t/recovery-tb-8504f-x-unofficial-twrp-3-7-x-for-lenovo-tab-4-8-android-12.4687233/ 
+**sources** https://xdaforums.com/m/adazem009.10520325/
 
 **stock firmware** https://androidfilehost.com/?fid=10763459528675561268 
 
