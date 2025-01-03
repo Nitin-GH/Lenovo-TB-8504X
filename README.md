@@ -42,7 +42,7 @@
 
 # Note 
 **You may encounter few errors regarding ports that's happen because your android drivers for adb are not setup properly, due to multiple reasons**
-**if you not gettings fastboot device waiting errors (error 2) or sarah failed error (error 3) that most likely your port for port9008COM3 shwoing up but not connected or able to read adb drivers**
+**if you not gettings fastboot device waiting errors (error 2) or sarah failed error (error 3) that most likely your port for PORT9008COM3 showing up but not connected or able to read adb drivers**
 
 # **Error 1**
 **Error 1 is the main error for most of the error this should not look like this**
@@ -82,7 +82,7 @@ once that done we more to next step
 
 # **7. There are two methods to go into ELD mode**
 
- **method 1. connect your Tab to pc and select fil tranfer mode if not done before in usb deubgging and then open adb command prompt and type**
+ **method 1. connect your Tab to pc and select file tranfer mode if not done before in usb deubgging and then open adb command prompt and type**
    ~~~bash
    adb reboot edl
    ~~~
@@ -95,7 +95,7 @@ once that done we more to next step
 
 # **9. once the download has done and if will show you download success then Disconnect your Tab and turn it on and set it up again and turn on usb debugging, oem unlock again**
 
-# **10. now connect your phone and choose file transfer in MTP
+# **10. now connect your TAB and choose file transfer in MTP
 
 
 # Step 6: Install ADB and Fastboot Tools on Your PC
@@ -113,7 +113,7 @@ https://developer.android.com/tools/releases/platform-tools \
 
 **1.Use a USB cable to connect your Lenovo TB8504X to the computer.**\
 **2.Open a Command Prompt/Terminal in the folder where ADB and Fastboot files are.**\
-**Enter the following command:**\
+**Enter the following command:**
 ```bash
 adb devices
 ```
@@ -139,7 +139,7 @@ fastboot oem unlock
 
 ![oem unlocking](https://github.com/user-attachments/assets/3742c084-9701-497d-8a4c-076685d2184c)
 
-**Once it done it will erase all the data on your device and you all to resetup it again before moving on to flasing recovery and rom**
+**Once it done it will erase all the data on your device and you need to resetup it all again before moving on to flasing recovery and rom**
 
 
 # Step 10: Reboot the Device
@@ -151,7 +151,7 @@ fastboot reboot
 **The device may take longer to boot during the first startup after unlocking.**
 
 # step 11: flash recovery 
-**1. once you set it up again and turn on usb debugging again and oem unlock again if not pre toggle before**
+**1. once you set it up again and turn on usb debugging again and oem unlock again if not pre toggle before**\
 **2.now open adb command prompts type**
 
 **adb reboot bootloader**&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;"and hit enter."\
