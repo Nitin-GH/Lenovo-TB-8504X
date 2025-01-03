@@ -170,9 +170,9 @@ fastboot reboot
 
 **stock firmware** https://androidfilehost.com/?fid=10763459528675561268 
 
-**best custom working custom recovery** https://sourceforge.net/projects/adazem009-builds/files/lenovo_TB8504/twrp/08-16-2024/ \
+**best working custom recovery** https://sourceforge.net/projects/adazem009-builds/files/lenovo_TB8504/twrp/08-16-2024/ \
 **Android 12 custom rom** https://sourceforge.net/projects/adazem009-builds/files/lenovo_TB8504/LineageOS/ 
-
+**For google play apps go with core arm64 Apps** https://sourceforge.net/projects/nikgapps/files/Releases/Android-12/31-Dec-2024/
 
 
 # Important Notes:
