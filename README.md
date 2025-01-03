@@ -65,10 +65,10 @@ once that done we more to next step
 
 ![qfiladmin](https://github.com/user-attachments/assets/ee002de6-ba03-4620-9a13-4c081ef47aaa)\
 
-**2. Click Flat build(red arrow)**\
+# **2. Click Flat build(red arrow)**\
 ![qfil arrow](https://github.com/user-attachments/assets/e2a0e7de-9946-4afd-98a3-a4422e21a5a2)\
 
-**3. browse your  then browse your prog_emmc_firehose_8917_ddr.mbn file file**\
+# **3. browse your  then browse your prog_emmc_firehose_8917_ddr.mbn file file**\
 ![qfill arrow file](https://github.com/user-attachments/assets/4dbe3737-ee7d-4ba3-bcf2-2ae3384f6a07)
 
 
