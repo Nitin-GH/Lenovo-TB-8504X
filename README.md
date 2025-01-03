@@ -156,7 +156,10 @@ fastboot reboot
 
 **adb reboot bootloader**&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;"and hit enter."\
 **fastboot devices**&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;"and hit enter. If your tab codename appears go to next steps."\
-**fastboot flash recovery**&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;"and hit space and drag and drop twrp image file. press enter."\
+**fastboot flash recovery**&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;"and hit space and drag and drop twrp image file. press enter."
+
+**once its flashes type**\
+**adb reboot recovery**
 
 and flash you recovery
 Important Notes:\
