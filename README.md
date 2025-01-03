@@ -31,6 +31,22 @@ Step 3: Enable OEM Unlocking and USB Debugging\
 2.Enable OEM Unlocking (toggle it on).\
 3.Enable USB Debugging.
 
+
+\
+\
+
+\
+
+\
+
+
+\
+
+
+\
+
+\
+
 Step 4: Install ADB and Fastboot Tools on Your PC\
 1.Download and install Android SDK Platform Tools from the official Android developer website.\
 https://developer.android.com/tools/releases/platform-tools \
