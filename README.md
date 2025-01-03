@@ -49,7 +49,7 @@
 
 we will talk about error 2 more in later of the guide but i highly recommand the youtube video for error 1 and usb driver file is given in the video if that link fails you get that same version in this guide, its basically take from the video description link
 
-**Video** https://www.youtube.com/watch?v=5z1l6r9EDMo&ab_channel=TheTechipedia
+**Video** https://www.youtube.com/watch?v=5z1l6r9EDMo&ab_channel=TheTechipedia \
 **I am not affiliated with any YouTuber or content creator.**
 \
 
