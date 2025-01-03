@@ -166,8 +166,16 @@ fastboot reboot
 
 # Importand links
 **ALL custom rom links** https://sourceforge.net/projects/adazem009-builds/files/lenovo_TB8504/
+**sources** https://xdaforums.com/t/recovery-tb-8504f-x-unofficial-twrp-3-7-x-for-lenovo-tab-4-8-android-12.4687233/
 
-Important Notes:\
+**stock firmware** https://androidfilehost.com/?fid=10763459528675561268
+
+**best custom working custom recovery** https://sourceforge.net/projects/adazem009-builds/files/lenovo_TB8504/twrp/08-16-2024/
+**Android 12 custom rom** https://sourceforge.net/projects/adazem009-builds/files/lenovo_TB8504/LineageOS/
+
+
+
+# Important Notes:\
 Unlocking the bootloader voids the warranty.\
 It will erase all data on the device.\
 Ensure your device has at least 50% battery before starting.\
