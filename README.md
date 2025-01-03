@@ -15,7 +15,7 @@
 **If you do not agree with these terms, do not use or download any files provided.**
 
 
-# lets begin
+# Lets Begin
 **Here are general instructions for unlocking the OEM bootloader of the Lenovo TB8504X. Proceed at your own risk—unlocking the bootloader may void your warranty and can lead to data loss or even device malfunction. Follow the steps carefully:**
 
 # Step 1: Backup Your Data
