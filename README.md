@@ -90,21 +90,25 @@ once that done we more to next step
 **method 2. turn off your tab once it done wait for 3 second and press Volume up key and hold it for 2 sec and connect your usb while holding volume up at same time and your red notification light pop up without**
 **turning it on its mean you are in ELD mode**
 
+# **8. once you are into ELD mode and connected Qfil ports pop up like this just select port which will be preselected if not in just a case and hit DOWNLOAD**
+![qfill arrow 4](https://github.com/user-attachments/assets/40712c59-07b6-4164-9675-b96eb56084c5)
 
-\
+# **9. once the download has done and if will show you download success then Disconnect your Tab and turn it on and set it up again and turn on usb debugging, oem unlock again**
 
-\
+# **10. now connect your phone and choose file transfer in MTP
 
-Step 4: Install ADB and Fastboot Tools on Your PC\
-1.Download and install Android SDK Platform Tools from the official Android developer website.\
+
+# Step 6: Install ADB and Fastboot Tools on Your PC
+**1.Download and install Android SDK Platform Tools from the official Android developer website.**\
 https://developer.android.com/tools/releases/platform-tools \
-2.Extract and install the tools on your PC.\
-3.Go into the extracted folder and press leftShift then Right click and open termnial![shiftplusrightclick](https://github.com/user-attachments/assets/bcd9502a-a4fe-4409-bfad-3939ef11a955)
+**2.Extract and install the tools on your PC.**\
+**3.Go into the extracted folder and press leftShift then Right click and open termnial**
+![shiftplusrightclick](https://github.com/user-attachments/assets/bcd9502a-a4fe-4409-bfad-3939ef11a955)
 
 
 
 
-Step 5: Connect the Device to PC\
+# Step : Connect the Device to PC
 1.Use a USB cable to connect your Lenovo TB8504X to the computer.\
 2.Open a Command Prompt/Terminal in the folder where ADB and Fastboot are installed.\
 Enter the following command:\
