@@ -77,18 +77,18 @@ once that done we more to next step
 # **5. then choose patch file**
 ![qfill arrow 3](https://github.com/user-attachments/assets/5b199922-7a54-416f-baab-e5c47e267b24)
 
-# **6. Now your have to go into ELD mode before connecting it to the pc**
+# **6. Now your Tab have to go into ELD mode before connecting it to the pc**
 
 
-# **7. there are two methods to go into ELD mode**
+# **7. There are two methods to go into ELD mode**
 
- **method 1. connect your phone to pc and select fild tranfer mode if note before in usb deubgging and then open adb command prompt and type**
+ **method 1. connect your Tab to pc and select fild tranfer mode if not done before in usb deubgging and then open adb command prompt and type**
    ~~~bash
    adb reboot edl
    ~~~
 
 **method 2. turn off your tab once it done wait for 3 second and press Volume up key and hold it for 2 sec and connect your usb while holding volume up at same time and your red notification light pop up without**
-   **turning it on its mean you are in ELD mode**
+**turning it on its mean you are in ELD mode**
 
 
 \
