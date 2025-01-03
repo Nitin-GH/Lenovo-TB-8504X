@@ -79,11 +79,14 @@ once that done we more to next step
 
 # **6. Now your have to go into ELD mode before connecting it to the pc**\
 
+
 # **7. there are two methods to go into ELD mode**\
+
  **method 1. connect your phone to pc and select fild tranfer mode if note before in usb deubgging and then open adb command prompt and type**
    ~~~bash
    adb reboot edl
    ~~~
+
 **method 2. turn off your tab once it done wait for 3 second and press Volunme up key and hold it for 2 sec and connect your usb and your red notification light pop up without**
    **turning it on its mean you are in ELD mode**
 
