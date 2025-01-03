@@ -42,9 +42,9 @@
 
 # Note 
 **You may encounter few errors regarding ports that's happen because your android drivers for adb are not setup properly, due to multiple reasons**
-**if you not gettings fastboot device waiting errors (error 1) or sarah failed error (error 2) that most likely your port for port9008COM3 shwoing up but not connected or able to read adb drivers** 
+**if you not gettings fastboot device waiting errors (error 1) or sarah failed error (error 2) that most likely your port for port9008COM3 shwoing up but not connected or able to read adb drivers**\
 
-**error 1**\ ![fastboot error](https://github.com/user-attachments/assets/624bbe95-6d8c-441f-9761-ea0ea6a35bd6)
+**error 1**\ ![fastboot error](https://github.com/user-attachments/assets/624bbe95-6d8c-441f-9761-ea0ea6a35bd6)\
 **error 2**\ ![sarah failed](https://github.com/user-attachments/assets/2b735a61-cc37-4622-a20c-4d723be71bb4)
 
 
