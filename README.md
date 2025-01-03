@@ -39,7 +39,10 @@
 **file 1.** https://qcomdriver.com/qualcomm-usb-driver-v1-0-10065-1 \
 **file 2.** https://qdloader9008.com/qualcomm-qdloader-9008-driver-v1-00-25 \
 **file 3.** https://qfiltool.com/qfil-tool-v2-0-3-5
-\
+
+# Note 
+**You may encounter few errors regarding ports that's happen because your android drivers for adb are not setup properly, due to multiple reasons**
+**if you not gettings fastboot device waiting errors or sarah failed error that most likely your port for port9008COM3 shwoing up but not connected or able to read adb drivers** 
 
 \
 https://www.youtube.com/watch?v=5z1l6r9EDMo&ab_channel=TheTechipedia
