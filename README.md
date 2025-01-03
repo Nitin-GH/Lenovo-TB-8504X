@@ -19,27 +19,27 @@
 Here are general instructions for unlocking the OEM bootloader of the Lenovo TB8504X. Proceed at your own risk—unlocking the bootloader may void your warranty and can lead to data loss or even device malfunction. Follow the steps carefully:
 
 Step 1: Backup Your Data
-Unlocking the bootloader will wipe all data on your device.
-Backup important files, photos, and settings before proceeding.
+1.Unlocking the bootloader will wipe all data on your device.
+2.Backup important files, photos, and settings before proceeding.
 
 Step 2: Enable Developer Options
-Go to Settings > About Tablet.
-Scroll down and tap Build Number 7 times until you see "You are now a developer!"
+1.Go to Settings > About Tablet.
+2.Scroll down and tap Build Number 7 times until you see "You are now a developer!"
 
 Step 3: Enable OEM Unlocking and USB Debugging
-Go to Settings > System > Developer Options.
-Enable OEM Unlocking (toggle it on).
-Enable USB Debugging.
+1.Go to Settings > System > Developer Options.
+2.Enable OEM Unlocking (toggle it on).
+3.Enable USB Debugging.
 
 Step 4: Install ADB and Fastboot Tools on Your PC
-Download and install Android SDK Platform Tools from the official Android developer website.
-Extract and install the tools on your PC.
+1.Download and install Android SDK Platform Tools from the official Android developer website.
+2.Extract and install the tools on your PC.
 
 Step 5: Connect the Device to PC
-Use a USB cable to connect your Lenovo TB8504X to the computer.
-Open a Command Prompt/Terminal in the folder where ADB and Fastboot are installed.
+1.Use a USB cable to connect your Lenovo TB8504X to the computer.
+2.Open a Command Prompt/Terminal in the folder where ADB and Fastboot are installed.
 Enter the following command:
-adb devices
+'adb devices'
 If your device is detected, you will see its serial number.
 
 Step 6: Boot into Fastboot Mode
