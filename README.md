@@ -34,7 +34,8 @@ Step 3: Enable OEM Unlocking and USB Debugging\
 Step 4: Install ADB and Fastboot Tools on Your PC\
 1.Download and install Android SDK Platform Tools from the official Android developer website.\
 https://developer.android.com/tools/releases/platform-tools \
-2.Extract and install the tools on your PC.
+2.Extract and install the tools on your PC.\
+3.Go into the extracted folder and press leftShift then Right click and open termnial
 
 Step 5: Connect the Device to PC\
 1.Use a USB cable to connect your Lenovo TB8504X to the computer.\
