@@ -29,7 +29,8 @@ Step 2: Enable Developer Options\
 Step 3: Enable OEM Unlocking and USB Debugging\
 1.Go to Settings > System > Developer Options.\
 2.Enable OEM Unlocking (toggle it on).\
-3.Enable USB Debugging.
+3.Enable USB Debugging.![oem-unlock-lollipop-1200x822](https://github.com/user-attachments/assets/9be22c7a-6f03-4c1b-8d54-d05f86a7a0b1)
+
 
 
 \
