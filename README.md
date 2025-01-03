@@ -18,15 +18,15 @@
 # lets begin
 Here are general instructions for unlocking the OEM bootloader of the Lenovo TB8504X. Proceed at your own risk—unlocking the bootloader may void your warranty and can lead to data loss or even device malfunction. Follow the steps carefully:
 
-# Step 1: Backup Your Data\
+# Step 1: Backup Your Data
 1.Unlocking the bootloader will wipe all data on your device.\
 2.Backup important files, photos, and settings before proceeding.
 
-# Step 2: Enable Developer Options\
+# Step 2: Enable Developer Options
 1.Go to Settings > About Tablet.\
 2.Scroll down and tap Build Number 7 times until you see "You are now a developer!"
 
-# Step 3: Enable OEM Unlocking and USB Debugging\
+# Step 3: Enable OEM Unlocking and USB Debugging
 1.Go to Settings > System > Developer Options.\
 2.Enable OEM Unlocking (toggle it on).\
 3.Enable USB Debugging.\
@@ -34,7 +34,7 @@ Here are general instructions for unlocking the OEM bootloader of the Lenovo TB8
 
 
 
-# Step 4: oem unlocking is need inorder to install custom roms on Lenovo-TB8504X for that you going to need few softwars\
+# Step 4: oem unlocking is need inorder to install custom roms on Lenovo-TB8504X for that you going to need few softwars
 Installation instruction are provided in websites so please pay attention to that we dont want to make this guide lengthy\
 file 1. https://qcomdriver.com/qualcomm-usb-driver-v1-0-10065-1 \
 file 2. https://qdloader9008.com/qualcomm-qdloader-9008-driver-v1-00-25 \
