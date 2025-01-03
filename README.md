@@ -99,6 +99,7 @@ once that done we more to next step
 
 
 # Step 6: Install ADB and Fastboot Tools on Your PC
+
 **1.Download and install Android SDK Platform Tools from the official Android developer website.**\
 https://developer.android.com/tools/releases/platform-tools \
 **2.Extract and install the tools on your PC.**\
@@ -109,29 +110,35 @@ https://developer.android.com/tools/releases/platform-tools \
 
 
 # Step 7 : Connect the Device to PC
+
 **1.Use a USB cable to connect your Lenovo TB8504X to the computer.**\
 **2.Open a Command Prompt/Terminal in the folder where ADB and Fastboot files are.**\
-Enter the following command:\
+**Enter the following command:**\
 ```bash
 adb devices
 ```
 **If your device is detected, you will see its serial number.**
 
 # Step 8: Boot into Fastboot Mode
+
 **Reboot the device into Fastboot mode by running:**\
 **Copy code**
 ```bash
 adb reboot bootloader
 ```
-Alternatively, power off the device and press Volume Down + Power Button simultaneously until the Fastboot screen appears.
+**Alternate, power off the device and press Volume Down + Power Button simultaneously until the Fastboot screen appears Your tab will boot to fastboot showing FastBoot text with broken android icon..**
 
-Step 7: Unlock the Bootloader\
-Enter the following command:\
-Copy code\
+# Step 9: Unlock the Bootloader
+
+**Enter the following command:**\
+**Copy code**\
 ```bash
 fastboot oem unlock
 ```
-Confirm the unlocking process on your device using the Volume Keys to navigate and Power Button to confirm.
+**Confirm the unlocking process on your device using the Volume Keys to navigate and Power Button to confirm.
+its will look like this**
+![oem unlocking](https://github.com/user-attachments/assets/3742c084-9701-497d-8a4c-076685d2184c)
+
 
 Step 8: Reboot the Device\
 Once the bootloader is unlocked, reboot the device using:\
