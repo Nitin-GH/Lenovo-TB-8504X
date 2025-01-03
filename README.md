@@ -150,7 +150,7 @@ fastboot reboot
 ```
 **The device may take longer to boot during the first startup after unlocking.**
 
-# step 11: flash recovery 
+# Step 11: flash recovery 
 **1. once you set it up again and turn on usb debugging again and oem unlock again if not pre toggle before**\
 **2.now open adb command prompts type**
 
