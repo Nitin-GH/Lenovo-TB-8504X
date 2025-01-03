@@ -1,3 +1,4 @@
+[![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fgjbae1212%2Fhit-counter)](https://hits.seeyoufarm.com)
 # Lenovo TB8504X
 **This repository contains all the links and files for custom rom installation on lenovo tab TB8504X including ome unlocking with there original source links, if source links are not found or working its will contains files that were downloaded from original source, All credit goes to there respectful owner/creators this repositor just created in sense to collected all the information in one place**
 
