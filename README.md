@@ -1,4 +1,4 @@
-![REPO VISITS](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https://github.com/Nitin-GH/Lenovo-TB8504X&count_bg=%23007bff&title_bg=%23808080&icon=&icon_color=%23FFFFFF&title=REPO%20VISITS&edge_flat=false)
+![REPO VISITS](https://img.shields.io/badge/Repo%20Visits-23-blue?style=flat-square&logo=github)
 
 
 
