@@ -82,7 +82,7 @@ once that done we more to next step
 
 # **7. There are two methods to go into ELD mode**
 
- **method 1. connect your Tab to pc and select fild tranfer mode if not done before in usb deubgging and then open adb command prompt and type**
+ **method 1. connect your Tab to pc and select fil tranfer mode if not done before in usb deubgging and then open adb command prompt and type**
    ~~~bash
    adb reboot edl
    ~~~
@@ -90,7 +90,7 @@ once that done we more to next step
 **method 2. turn off your tab once it done wait for 3 second and press Volume up key and hold it for 2 sec and connect your usb while holding volume up at same time and your red notification light pop up without**
 **turning it on its mean you are in ELD mode**
 
-# **8. once you are into ELD mode and connected Qfil ports pop up like this just select port which will be preselected if not in just a case and hit DOWNLOAD**
+# **8. once you are into ELD mode and Qfil ports pop up like, just select port which will be preselected if not just in case and hit DOWNLOAD**
 ![qfill arrow 4](https://github.com/user-attachments/assets/40712c59-07b6-4164-9675-b96eb56084c5)
 
 # **9. once the download has done and if will show you download success then Disconnect your Tab and turn it on and set it up again and turn on usb debugging, oem unlock again**
@@ -108,18 +108,18 @@ https://developer.android.com/tools/releases/platform-tools \
 
 
 
-# Step : Connect the Device to PC
-1.Use a USB cable to connect your Lenovo TB8504X to the computer.\
-2.Open a Command Prompt/Terminal in the folder where ADB and Fastboot are installed.\
+# Step 7 : Connect the Device to PC
+**1.Use a USB cable to connect your Lenovo TB8504X to the computer.**\
+**2.Open a Command Prompt/Terminal in the folder where ADB and Fastboot files are.**\
 Enter the following command:\
 ```bash
 adb devices
 ```
-If your device is detected, you will see its serial number.
+**If your device is detected, you will see its serial number.**
 
-Step 6: Boot into Fastboot Mode\
-Reboot the device into Fastboot mode by running:\
-Copy code\
+# Step 8: Boot into Fastboot Mode
+**Reboot the device into Fastboot mode by running:**\
+**Copy code**
 ```bash
 adb reboot bootloader
 ```
