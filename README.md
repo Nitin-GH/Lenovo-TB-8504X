@@ -41,7 +41,7 @@
 **Installation instruction are provided in websites so please pay attention to that we dont want to make this guide lengthy**\
 **file 1.** https://qcomdriver.com/qualcomm-usb-driver-v1-0-10065-1 \
 **file 2.** https://qdloader9008.com/qualcomm-qdloader-9008-driver-v1-00-25 \
-**file 3.** https://qfiltool.com/qfil-tool-v2-0-3-5
+**file 3.** [https://qfiltool.com/qfil-tool-v2-0-3-5](https://qpsttool.com/qpst-tool-v2-7-496)
 
 # Note 
 **You may encounter few errors regarding ports that's happen because your android drivers for adb are not setup properly, due to multiple reasons**
@@ -175,6 +175,7 @@ fastboot reboot
 
 **best working custom recovery** https://sourceforge.net/projects/adazem009-builds/files/lenovo_TB8504/twrp/08-16-2024/ \
 **Android 12 custom rom** https://sourceforge.net/projects/adazem009-builds/files/lenovo_TB8504/LineageOS/ \
+**Android 11 custom rom best stable rom** https://sourceforge.net/projects/adazem009-builds/files/lenovo_TB8504/crDroid/crDroidAndroid-11.0-20230131-TB8504-v7.26.zip/download \
 **For google play apps go with core arm64 Apps** https://sourceforge.net/projects/nikgapps/files/Releases/Android-12/31-Dec-2024/
 
 
