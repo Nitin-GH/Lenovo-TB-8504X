@@ -182,7 +182,7 @@ fastboot reboot
 # Stock Firmware with updated Android
 
 **I fucked up my device and now i cant use Wifi, bluetooth, and moblie data Help me?
-do not worry i have offical updated firmware and you lost all those things and you messed this firmware will fix it.**
+do not worry i have offical updated firmware and this firmware will fix it.**
 
 https://u.pcloud.link/publink/show?code=XZRx1J5ZjA5zS2kapAVW7E6jG2SrESRQlrM7
 
