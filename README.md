@@ -1,4 +1,4 @@
-[![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2FNitin-GH%2FLenovo-TB-8504X&count_bg=%232FC22E&title_bg=%23000000&icon=![lenovo_icon](https://github.com/user-attachments/assets/d0de76f1-3946-40ed-b9f8-53d570e8beb8)
+[![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2FNitin-GH%2FLenovo-TB-8504X&count_bg=%232FC22E&title_bg=%23000000&icon=lenovo_iconhttps://github.com/user-attachments/assets/d0de76f1-3946-40ed-b9f8-53d570e8beb8
 &icon_color=%23D31B1B&title=Repo+visits&edge_flat=false)](https://hits.seeyoufarm.com)
 
 # Lenovo TB8504X
