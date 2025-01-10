@@ -183,6 +183,7 @@ fastboot reboot
 
 **I fucked up my device and now i cant use Wifi, bluetooth, and moblie data Help me?
 do not worry i have offical updated firmware and you lost all those things and you messed this firmware will fix it.**
+
 https://u.pcloud.link/publink/show?code=XZRx1J5ZjA5zS2kapAVW7E6jG2SrESRQlrM7
 
 **note this will be android 8 which better then 7.1 but if want stay with stock rom you can go with it 
