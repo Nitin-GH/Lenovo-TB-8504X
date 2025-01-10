@@ -178,6 +178,9 @@ fastboot reboot
 **Android 11 custom rom best stable rom** https://sourceforge.net/projects/adazem009-builds/files/lenovo_TB8504/crDroid/crDroidAndroid-11.0-20230131-TB8504-v7.26.zip/download \
 **For google play apps go with core arm64 Apps** https://sourceforge.net/projects/nikgapps/files/Releases/Android-12/31-Dec-2024/
 
+
+### stock firmware with updated android
+
 **I fucked up my device and now i cant use Wifi, bluetooth, and moblie data Help me?
 do not worry i have offical updated firmware and you lost all those things and you messed this firmware will fix it.**
 https://u.pcloud.link/publink/show?code=XZRx1J5ZjA5zS2kapAVW7E6jG2SrESRQlrM7
