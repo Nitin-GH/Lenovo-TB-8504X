@@ -1,4 +1,4 @@
-[![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2FNitin-GH%2FLenovo-TB-8504X&count_bg=%232FC22E&title_bg=%23000000&icon=lenovo.svg&icon_color=%23D31B1B&title=Repo+visits&edge_flat=false)](https://hits.seeyoufarm.com)
+[![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2FNitin-GH%2FLenovo-TB-8504X&count_bg=%232FC22E&title_bg=%23000000&icon=![lenovo_small_icon](https://github.com/user-attachments/assets/2267a9da-814c-41a8-9b72-0e0b35f0b9b8)&icon_color=%23D31B1B&title=Repo+visits&edge_flat=false)](https://hits.seeyoufarm.com)
 
 # Lenovo TB8504X
 **This repository contains all the links and files for custom rom installation on lenovo tab TB8504X including oem unlocking with there original source links, if source links are not found or working its will contains files that were downloaded from original source, All credit goes to there respectful owner/creators this repositor just created in sense to collected all the information in one place**
