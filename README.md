@@ -40,7 +40,7 @@
 # Step 4: OEM unlocking is need in order to install custom roms on Lenovo-TB8504X for that you going to need few software
 **Installation instruction are provided in websites so please pay attention to that we dont want to make this guide lengthy**\
 **file 1.** https://qcomdriver.com/qualcomm-usb-driver-v1-0-10065-1 \
-**file 2.** https://qdloader9008.com/qualcomm-qdloader-9008-driver-v1-00-25 \ **you might not need this**
+**file 2.** https://qdloader9008.com/qualcomm-qdloader-9008-driver-v1-00-25  **you might not need this if you are using qfill 2.7**\
 **file 3.** [https://qfiltool.com/qfil-tool-v2-0-3-5](https://qpsttool.com/qpst-tool-v2-7-496)
 
 # Note 
