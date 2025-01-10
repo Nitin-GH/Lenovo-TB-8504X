@@ -48,7 +48,7 @@
 **if you gettings fastboot device waiting errors (error 2) or sarah failed error (error 3) that most likely your port for PORT9008COM3 showing up but not connected or able to read adb drivers**
 
 # **Error 1**
-**Error 1 is the main error for most of the error this should not look like this**
+**Error 1 is the main error for most of the error this should look like this**
 
  ![android error](https://github.com/user-attachments/assets/bb7ac249-6f55-4c4f-8d2d-98c861fbe31d)\
 **Error 2**\
