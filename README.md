@@ -93,8 +93,8 @@ once that done we more to next step
 **method 2. turn off your tab once it done wait for 3 second and press Volume up key and hold it for 2 sec and connect your usb while holding volume up at same time and your red notification light pop up without**
 **turning it on its mean you are in ELD mode**
 
-**note - if your port is not sshowing up  that because ELD mode have timeout around 15 sec if that happen you need to again turn on and go in ELD mode again
-qucik tip - if ELD mode timeout go in recovery mode and power off and then go in ELD node that way you ndont have to turn on system**
+**note - if your port is not showing up  that because ELD mode have timeout around 15 sec if that happen you need to again turn on and go in ELD mode again\
+qucik tip - if ELD mode timeout go in recovery mode and power off and then go in ELD node that way you dont have to turn on system**
 
 # **8. once you are into ELD mode and Qfil ports pop up like, just select port which will be preselected if not just in case and hit DOWNLOAD**
 ![qfill arrow 4](https://github.com/user-attachments/assets/40712c59-07b6-4164-9675-b96eb56084c5)
