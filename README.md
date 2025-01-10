@@ -37,7 +37,7 @@
 
 
 
-# Step 4: OEM unlocking is need in order to install custom roms on Lenovo-TB8504X for that you going to need few softwars
+# Step 4: OEM unlocking is need in order to install custom roms on Lenovo-TB8504X for that you going to need few software
 **Installation instruction are provided in websites so please pay attention to that we dont want to make this guide lengthy**\
 **file 1.** https://qcomdriver.com/qualcomm-usb-driver-v1-0-10065-1 \
 **file 2.** https://qdloader9008.com/qualcomm-qdloader-9008-driver-v1-00-25 \
@@ -179,7 +179,7 @@ fastboot reboot
 **For google play apps go with core arm64 Apps** https://sourceforge.net/projects/nikgapps/files/Releases/Android-12/31-Dec-2024/
 
 
-# stock firmware with updated android
+# Stock Firmware with updated Android
 
 **I fucked up my device and now i cant use Wifi, bluetooth, and moblie data Help me?
 do not worry i have offical updated firmware and you lost all those things and you messed this firmware will fix it.**
