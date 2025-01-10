@@ -179,7 +179,7 @@ fastboot reboot
 **For google play apps go with core arm64 Apps** https://sourceforge.net/projects/nikgapps/files/Releases/Android-12/31-Dec-2024/
 
 
-### stock firmware with updated android
+# stock firmware with updated android
 
 **I fucked up my device and now i cant use Wifi, bluetooth, and moblie data Help me?
 do not worry i have offical updated firmware and you lost all those things and you messed this firmware will fix it.**
