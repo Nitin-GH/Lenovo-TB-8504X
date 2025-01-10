@@ -80,7 +80,7 @@ once that done we more to next step
 # **5. then choose patch file**
 ![qfill arrow 3](https://github.com/user-attachments/assets/5b199922-7a54-416f-baab-e5c47e267b24)
 
-# **6. Now your Tab have to go into ELD mode before connecting it to the pc**
+# **6. Now before hitting download your Tab have to go into ELD mode before connecting it to the pc**
 
 
 # **7. There are two methods to go into ELD mode**
