@@ -40,12 +40,12 @@
 # Step 4: OEM unlocking is need in order to install custom roms on Lenovo-TB8504X for that you going to need few software
 **Installation instruction are provided in websites so please pay attention to that we dont want to make this guide lengthy**\
 **file 1.** https://qcomdriver.com/qualcomm-usb-driver-v1-0-10065-1 \
-**file 2.** https://qdloader9008.com/qualcomm-qdloader-9008-driver-v1-00-25 \
+**file 2.** https://qdloader9008.com/qualcomm-qdloader-9008-driver-v1-00-25 \ **you might not need this if yo are using qfill 2.7 version**
 **file 3.** [https://qfiltool.com/qfil-tool-v2-0-3-5](https://qpsttool.com/qpst-tool-v2-7-496)
 
 # Note 
 **You may encounter few errors regarding ports that's happen because your android drivers for adb are not setup properly, due to multiple reasons**
-**if you not gettings fastboot device waiting errors (error 2) or sarah failed error (error 3) that most likely your port for PORT9008COM3 showing up but not connected or able to read adb drivers**
+**if you gettings fastboot device waiting errors (error 2) or sarah failed error (error 3) that most likely your port for PORT9008COM3 showing up but not connected or able to read adb drivers**
 
 # **Error 1**
 **Error 1 is the main error for most of the error this should not look like this**
