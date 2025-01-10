@@ -101,7 +101,7 @@ qucik tip - if ELD mode timeout go in recovery mode and power off and then go in
 
 # **9. once the download has done and if will show you download success then Disconnect your Tab and turn it on and set it up again and turn on usb debugging, oem unlock again**
 
-# **10. now connect your TAB and choose file transfer in MTP
+# 10. now connect your TAB and choose file transfer in MTP
 
 
 # Step 6: Install ADB and Fastboot Tools on Your PC
